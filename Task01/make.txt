@@ -1,0 +1,8 @@
+make -C /lib/modules/4.1.3-201.fc22.x86_64/build M=/home/tyler/Projects/Eudyptula/Lesson01 modules
+make[1]: Entering directory '/usr/src/kernels/4.1.3-201.fc22.x86_64'
+  CC [M]  /home/tyler/Projects/Eudyptula/Lesson01/lesson01.o
+  Building modules, stage 2.
+  MODPOST 1 modules
+  CC      /home/tyler/Projects/Eudyptula/Lesson01/lesson01.mod.o
+  LD [M]  /home/tyler/Projects/Eudyptula/Lesson01/lesson01.ko
+make[1]: Leaving directory '/usr/src/kernels/4.1.3-201.fc22.x86_64'

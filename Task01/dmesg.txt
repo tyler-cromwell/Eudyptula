@@ -1,0 +1,2 @@
+[33264.927868] Hello world!
+[33273.395590] Goodbye, cruel world.
