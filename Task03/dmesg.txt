@@ -1,0 +1,10 @@
+[    0.000000] Linux version 4.7.0-rc6-eudyptula-dirty (tyler@podrick) (gcc version 5.3.1 20160406 (Red Hat 5.3.1-6) (GCC) ) #3 SMP Tue Jul 5 20:16:50 EDT 2016
+[    0.000000] Command line: BOOT_IMAGE=/vmlinuz-4.7.0-rc6-eudyptula-dirty root=UUID=e9897e31-92a4-491b-9e47-5c259486e7a5 ro rootflags=subvol=root rhgb quiet LANG=en_US.UTF-8
+[    0.000000] x86/fpu: Legacy x87 FPU detected.
+[    0.000000] x86/fpu: Using 'eager' FPU context switches.
+[    0.000000] e820: BIOS-provided physical RAM map:
+[    0.000000] BIOS-e820: [mem 0x0000000000000000-0x000000000009fbff] usable
+[    0.000000] BIOS-e820: [mem 0x000000000009fc00-0x000000000009ffff] reserved
+[    0.000000] BIOS-e820: [mem 0x00000000000e6000-0x00000000000fffff] reserved
+[    0.000000] BIOS-e820: [mem 0x0000000000100000-0x00000000dfe8ffff] usable
+[    0.000000] BIOS-e820: [mem 0x00000000dfe90000-0x00000000dfe9dfff] ACPI data

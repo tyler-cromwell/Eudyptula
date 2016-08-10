@@ -1,0 +1,26 @@
+From cf322636781766e74b6396e782c35eda1133e9fd Mon Sep 17 00:00:00 2001
+From: Tyler Cromwell <tjc6185@gmail.com>
+Date: Tue, 5 Jul 2016 20:34:49 -0400
+Subject: [PATCH] Task03: Modified Makefile
+Signed-off-by: Tyler Cromwell <tjc6185@gmail.com>
+
+---
+ Makefile | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+diff --git a/Makefile b/Makefile
+index 0d50489..2a4f0e1 100644
+--- a/Makefile
++++ b/Makefile
+@@ -1,7 +1,7 @@
+ VERSION = 4
+ PATCHLEVEL = 7
+ SUBLEVEL = 0
+-EXTRAVERSION = -rc6
++EXTRAVERSION = -rc6-eudyptula
+ NAME = Psychotic Stoned Sheep
+ 
+ # *DOCUMENTATION*
+-- 
+2.5.5
+
